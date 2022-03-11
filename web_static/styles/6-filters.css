@@ -10,6 +10,8 @@
 }
 
 button {
+    outline: none;
+    border: none;
     font-size: 18px;
     background-color: #FF5A5F;
     color: #FFFFFF;
@@ -73,7 +75,7 @@ button:hover {
     margin-bottom: 3px;
 }
 
-.places {
+.sub {
     list-style: none;
     margin-bottom: 10%;
     padding-left: 5%;
