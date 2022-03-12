@@ -1,5 +1,5 @@
 .filters {
-    color: #FFFFFF;
+    background-color: #FFFFFF;
     height: 70px;
     width: 100%;
     border: 1px solid #DDDDDD;
@@ -7,6 +7,8 @@
     display: flex;
     align-items: center;
     justify-content: right;
+    position: relative;
+    z-index: 10;
 }
 
 button {
